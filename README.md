@@ -1,2 +1,3 @@
 # hello_world
-Just a test repository
+
+I'm shsleo and I'm starting programming with python.
